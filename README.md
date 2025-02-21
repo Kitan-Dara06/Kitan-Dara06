@@ -8,6 +8,7 @@
 - with strong understanding of python, pandas, numpy,tensorflow,
 - i am currently exploring deeep learning
 - i am open to internship and collaboration in data science as a data scientist or collaboration in machine learning
+[![GitHub Streak](https://streak-stats.demolab.com/Kitan-Dara06=DenverCoder1)](https://git.io/streak-stats)
   
 - 📫 How to reach me ololadeaaliyah@gmail.com
 
