@@ -54,6 +54,6 @@ I am currently open to **Full-Time AI/ML Engineering** and **Software Engineerin
 
 - 📧 **Email:** [ololadeaaliyah@gmail.com](mailto:ololadeaaliyah@gmail.com)
 - 💼 **LinkedIn:** Agboola Aaliyah
-- 🌐 **Portfolio/Website:** [Your Portfolio URL Here - optional]
+- 🌐 **Portfolio/Website:**
 
 *“The best way to predict the future of AI is to build reliable systems that work today.”*
