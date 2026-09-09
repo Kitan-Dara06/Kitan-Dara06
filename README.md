@@ -1,18 +1,59 @@
-- 👋 Hi, I’m @Kitan_Dara06
-- 👀 I’m interested in python currently, I have knowledge in javascript and react 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on fullstack projects
-- New update; i am into Machine learning now
-- i am not yet a pro at it
-- but i have strong capability in data science
-- with strong understanding of python, pandas, numpy,tensorflow,
-- i am currently exploring deeep learning
-- i am open to internship and collaboration in data science as a data scientist or collaboration in machine learning
-[![GitHub Streak](https://streak-stats.demolab.com/Kitan-Dara06=DenverCoder1)](https://git.io/streak-stats)
-  
-- 📫 How to reach me ololadeaaliyah@gmail.com
+# Hi, I'm Kitan Dara 👋
 
-<!---
-Kitan-Dara06/Kitan-Dara06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 AI/ML Engineer | Agentic AI & Advanced RAG Specialist
+
+I build production-grade, hallucination-resistant AI systems. I specialize in transforming messy, unstructured data into reliable, multi-step agentic workflows and advanced Retrieval-Augmented Generation (RAG) pipelines.
+
+Currently focused on:
+- 🤖 **Agentic Orchestration:** Building multi-tool agents with dynamic routing, self-correction loops, and human-in-the-loop (HITL) breakpoints.
+- 🔍 **Advanced Retrieval:** Implementing hybrid search (Dense + Sparse/BM25) and graph-based retrieval for complex, real-world datasets.
+- 📏 **LLM Evaluation:** Instrumenting observability (Langfuse) and automated evaluation frameworks (RAGAS/DeepEval) to measure and guarantee AI reliability.
+
+---
+
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), JavaScript, TypeScript, SQL |
+| **AI / ML** | LangChain, LangGraph, Hugging Face, RAGAS, DeepEval, DSPy |
+| **Backend** | FastAPI, Celery, Redis, REST APIs, Webhooks |
+| **Databases** | PostgreSQL, Qdrant (Vector), ChromaDB, Neo4j (Graph) |
+| **Frontend** | React, Next.js, Tailwind CSS, Streamlit |
+| **DevOps / Tools** | Docker, Git, GitHub Actions, AWS, Modal |
+
+---
+
+### 🚀 Featured Projects
+
+#### ⚖️ [Legal-AI-Copilot](https://github.com/Kitan-Dara06/Legal-Ai-Copilot)
+An intelligent, multi-tool legal document analysis platform. 
+- **Architecture:** Agentic routing classifies queries into extraction, logical reasoning, or search paths.
+- **Retrieval:** Hybrid search combining dense vectors (BGE-M3) and sparse keyword retrieval (BM25) via Qdrant.
+- **Scale:** Asynchronous document processing pipeline using Celery + Redis for heavy PDF ingestion.
+
+#### 🗄️ [RAG_SQL](https://github.com/Kitan-Dara06/RAG_SQL)
+A production-grade, self-correcting Text-to-SQL agent.
+- **Reliability:** Features AST-level syntax validation (`sqlglot`) to catch errors before execution.
+- **Agentic Loop:** Implements a recursive self-correction mechanism that feeds execution errors back to the LLM to autonomously fix the query.
+- **Context:** Graph-based RAG for intelligent schema retrieval and foreign key analysis.
+
+**
+
+---
+
+### 📈 GitHub Stats
+
+![Kitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitan-Dara06&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect
+
+I am currently open to **Full-Time AI/ML Engineering** and **Software Engineering (AI)** roles where I can build scalable, impactful agentic systems. 
+
+- 📧 **Email:** [ololadeaaliyah@gmail.com](mailto:ololadeaaliyah@gmail.com)
+- 💼 **LinkedIn:** Agboola Aaliyah
+- 🌐 **Portfolio/Website:** [Your Portfolio URL Here - optional]
+
+*“The best way to predict the future of AI is to build reliable systems that work today.”*
